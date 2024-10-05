@@ -1,10 +1,12 @@
-**Understanding Bit Manipulation: A Simple Guide**
+# Understanding Bit Manipulation:
 
-Bit manipulation might sound complicated, but it's a powerful tool that can make certain tasks much more efficient. Here, we'll break down the basics using a simple example.
+## **A Simple Guide**
 
-#### What is Bit Manipulation?
+- Bit manipulation might sound complicated, but it's a powerful tool that can make certain tasks much more efficient. Here, we'll break down the basics using a simple example.
 
-Bit manipulation involves directly working with the binary representation of numbers. Computers use binary (a series of 0s and 1s) to perform operations, and bit manipulation allows us to manipulate these bits directly.
+### What is Bit Manipulation?
+
+- Bit manipulation involves directly working with the binary representation of numbers. Computers use binary (a series of 0s and 1s) to perform operations, and bit manipulation allows us to manipulate these bits directly.
 
 #### Why Use Bit Manipulation?
 
